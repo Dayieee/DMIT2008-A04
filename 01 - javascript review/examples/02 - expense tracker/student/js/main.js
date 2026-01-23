@@ -96,3 +96,5 @@ document
             renderExpenses(filteredExpenses);
         }
     );
+// 7. Add an event listener to the entire container of items.
+// And then differentiate it between click  events specificslly 
